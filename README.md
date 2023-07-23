@@ -1,4 +1,4 @@
-# Modeling NFL Overtime with Markov Chains (2021)
+# Evaluating NFL and NCAA Football Overtime with Markov Chains (2021)
 
 In recent years, the National Football League has come
 under fire for the way in which it conducts overtime, as, in
